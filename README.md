@@ -1,5 +1,5 @@
 Naive Bayes Classification
-Notebook ini merupakan implementasi dari algoritma klasifikasi Naive Bayes  untuk tugas klasifikasi. Proyek ini cocok digunakan untuk pembelajaran atau studi kasus dasar dalam machine learning, khususnya klasifikasi berbasis probabilistik.
+Notebook ini merupakan implementasi dari algoritma klasifikasi Naive Bayes  untuk tugas klasifikasi bunga IRIS. Proyek ini cocok digunakan untuk pembelajaran atau studi kasus dasar dalam machine learning, khususnya klasifikasi berbasis probabilistik.
 
 📁 File
 Naive Bayes Classification_215314148.ipynb — Notebook utama yang berisi proses lengkap:
@@ -42,36 +42,17 @@ Pandas
 
 Matplotlib
 
-Seaborn (jika digunakan)
-
 📊 Dataset
 Dataset yang digunakan belum disebutkan secara eksplisit di README ini. Silakan lihat bagian awal notebook (pd.read_csv(...)) untuk detail mengenai nama dan isi dataset yang digunakan.
 
 🚀 Cara Menjalankan
 Clone repository ini atau download file .ipynb.
 
+
 Pastikan Anda memiliki lingkungan Python dengan Jupyter Notebook.
 
+
 Install dependencies (jika belum):
-
-bash
-Salin
-Edit
-pip install -r requirements.txt
-Atau install manual:
-
-bash
-Salin
-Edit
-pip install pandas scikit-learn matplotlib seaborn
-Jalankan notebook:
-
-bash
-Salin
-Edit
-jupyter notebook
-📈 Hasil
-Notebook akan menampilkan:
 
 Akurasi model
 
